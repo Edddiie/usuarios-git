@@ -23,4 +23,4 @@
 
 - Mackaber, mi nombre de usuario en git: [Mackaber](https://github.com/Mackaber)
 
-Edilson, mi nombre de usuario en git: [Edddiie](https://github.com/Edddiie)
+-Edilson, mi nombre de usuario en git: [Edddiie](https://github.com/Edddiie)
